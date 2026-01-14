@@ -10,7 +10,7 @@
     "latitude": 22.1477,
     "longitude": 113.5596,
     "siteUrl": "https://ko.venetianmacao.com/",
-    "imageRes": "venetian"
+    "thumbnailImage": "venetian"
   },
   {
     "id": 101,
@@ -23,7 +23,7 @@
     "latitude": 22.1417,
     "longitude": 113.5635,
     "siteUrl": "https://www.studiocity-macau.com/en",
-    "imageRes": "studiocity"
+    "thumbnailImage": "studiocity"
   },
   {
     "id": 102,
@@ -36,7 +36,7 @@
     "latitude": 22.1437,
     "longitude": 113.5659,
     "siteUrl": "https://ko.parisianmacao.com/",
-    "imageRes": "parisian"
+    "thumbnailImage": "parisian"
   },
   {
     "id": 103,
@@ -49,7 +49,7 @@
     "latitude": 22.1488,
     "longitude": 113.5629,
     "siteUrl": "https://www.fourseasons.com/macau/",
-    "imageRes": "four_seasons"
+    "thumbnailImage": "four_seasons"
   },
   {
     "id": 104,
@@ -62,7 +62,7 @@
     "latitude": 22.1522,
     "longitude": 113.5517,
     "siteUrl": "https://www.galaxymacau.com/en/hotels/galaxy-hotel/",
-    "imageRes": "galaxy"
+    "thumbnailImage": "galaxy"
   },
   {
     "id": 105,
@@ -75,7 +75,7 @@
     "latitude": 22.1501,
     "longitude": 113.5530,
     "siteUrl": "https://www.ritzcarlton.com/en/hotels/mfmrz-the-ritz-carlton-macau/overview/",
-    "imageRes": "ritz_carlton"
+    "thumbnailImage": "ritz_carlton"
   },
   {
     "id": 106,
@@ -88,7 +88,7 @@
     "latitude": 22.1495,
     "longitude": 113.5522,
     "siteUrl": "https://www.marriott.com/en-us/hotels/mfmjw-jw-marriott-hotel-macau/overview/",
-    "imageRes": "jw_marriott"
+    "thumbnailImage": "jw_marriott"
   },
   {
     "id": 107,
@@ -101,7 +101,7 @@
     "latitude": 22.1505,
     "longitude": 113.5540,
     "siteUrl": "https://www.galaxymacau.com/en/hotels/andaz-macau/",
-    "imageRes": "andaz_macau"
+    "thumbnailImage": "andaz_macau"
   },
   {
     "id": 108,
@@ -114,7 +114,7 @@
     "latitude": 22.1511,
     "longitude": 113.5519,
     "siteUrl": "https://www.hotelokuramacau.com/ko",
-    "imageRes": "hotel_okura"
+    "thumbnailImage": "hotel_okura"
   },
   {
     "id": 109,
@@ -127,7 +127,7 @@
     "latitude": 22.1508,
     "longitude": 113.5512,
     "siteUrl": "https://www.banyantree.com/macau",
-    "imageRes": "banyan_tree"
+    "thumbnailImage": "banyan_tree"
   },
   {
     "id": 110,
@@ -140,7 +140,7 @@
     "latitude": 22.1528,
     "longitude": 113.5501,
     "siteUrl": "https://www.broadwaymacau.com.mo/hotel/",
-    "imageRes": "broadway"
+    "thumbnailImage": "broadway"
   },
   {
     "id": 111,
@@ -153,6 +153,7 @@
     "latitude": 22.1455,
     "longitude": 113.5615,
     "siteUrl": "https://ko.londonermacao.com/",
-    "imageRes": "londoner"
+    "thumbnailImage": "londoner"
   }
+
 ]
