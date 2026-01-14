@@ -1,0 +1,245 @@
+[
+  {
+    "days": [
+      {
+        "itineraries": [
+          {
+            "content": "인천공항 출발 -\u003e 마카오 도착",
+            "endTime": "13:05",
+            "location": "인천공항",
+            "remarks": "",
+            "startTime": "10:20",
+            "travelDate": "2025-09-05"
+          },
+          {
+            "content": "마카오공항 출발 -\u003e 브로드웨이 호텔 도착",
+            "endTime": "13:30",
+            "location": "마카오공항",
+            "remarks": "#브로드웨이 호텔",
+            "startTime": "13:05",
+            "travelDate": "2025-09-05"
+          },
+          {
+            "content": "브로드웨이 호텔 짐 맡기고 수영하기",
+            "endTime": "18:00",
+            "location": "그랜드 리조트덱",
+            "remarks": "#그랜드 리조트 덱 (갤럭시)",
+            "startTime": "13:30",
+            "travelDate": "2025-09-05"
+          },
+          {
+            "content": "저녁식사 하기",
+            "endTime": "19:50",
+            "location": "푸티엔",
+            "remarks": "#푸티엔",
+            "startTime": "18:00",
+            "travelDate": "2025-09-05"
+          },
+          {
+            "content": "오픈탑 나이트 투어 버스 줄서기",
+            "endTime": "20:20",
+            "location": "갤럭시 정문",
+            "remarks": "",
+            "startTime": "19:50",
+            "travelDate": "2025-09-05"
+          },
+          {
+            "content": "오픈탑 버스 나이트 투어",
+            "endTime": "21:20",
+            "location": "갤럭시 정문",
+            "remarks": "#마카오 나이트 투어 버스",
+            "startTime": "20:20",
+            "travelDate": "2025-09-05"
+          },
+          {
+            "content": "숙소 복귀 후 취침",
+            "endTime": "22:00",
+            "location": "브로드웨이 호텔",
+            "remarks": "",
+            "startTime": "21:20",
+            "travelDate": "2025-09-05"
+          }
+        ],
+        "title": "9월 1일"
+      },
+      {
+        "itineraries": [
+          {
+            "content": "세나도광장 관광",
+            "endTime": "11:00",
+            "location": "세나도광장",
+            "remarks": "#세나도 광장",
+            "startTime": "08:00",
+            "travelDate": "2025-09-06"
+          },
+          {
+            "content": "브로드웨이 호텔 짐 보관 후 스튜디오시티 이동",
+            "endTime": "12:00",
+            "location": "스튜디오 시티",
+            "remarks": "#스튜디오시티 호텔",
+            "startTime": "11:00",
+            "travelDate": "2025-09-06"
+          },
+          {
+            "content": "스튜디오시티 호텔 키쿠 점심뷔페 이용",
+            "endTime": "14:00",
+            "location": "키쿠",
+            "remarks": "#키쿠",
+            "startTime": "12:00",
+            "travelDate": "2025-09-06"
+          },
+          {
+            "content": "갤럭시 이동 후 수영하기",
+            "endTime": "18:00",
+            "location": "그랜드리조트덱",
+            "remarks": "#그랜드 리조트 덱 (갤럭시)",
+            "startTime": "14:00",
+            "travelDate": "2025-09-06"
+          },
+          {
+            "content": "파리지앵 이동 후 체크인",
+            "endTime": "19:00",
+            "location": "파리지앵",
+            "remarks": "#파리지앵 호텔",
+            "startTime": "18:00",
+            "travelDate": "2025-09-06"
+          },
+          {
+            "content": "저녁식사",
+            "endTime": "21:30",
+            "location": "런더너 치즈케이크 팩토리",
+            "remarks": "#치즈케이크 팩토리",
+            "startTime": "19:00",
+            "travelDate": "2025-09-06"
+          },
+          {
+            "content": "근위병 교대식 관람",
+            "endTime": "22:00",
+            "location": "런더너",
+            "remarks": "#런더너 근위병 교대식",
+            "startTime": "21:30",
+            "travelDate": "2025-09-06"
+          },
+          {
+            "content": "숙소 이동 후 취침",
+            "endTime": "22:30",
+            "location": "파리지앵",
+            "remarks": "#파리지앵 호텔",
+            "startTime": "22:00",
+            "travelDate": "2025-09-06"
+          }
+        ],
+        "title": "9월 2일"
+      },
+      {
+        "itineraries": [
+          {
+            "content": "쥬빠빠오, 땅콩토스트",
+            "endTime": "11:00",
+            "location": "소다빙실 카페",
+            "remarks": "#소다빙실 카페",
+            "startTime": "08:30",
+            "travelDate": "2025-09-07"
+          },
+          {
+            "content": "teamLab SuperNature Macao 전시 관람",
+            "endTime": "13:00",
+            "location": "베네시안 teamLab SuperNature Macao",
+            "remarks": "#팀랩 슈퍼네이처",
+            "startTime": "11:00",
+            "travelDate": "2025-09-07"
+          },
+          {
+            "content": "볶음밥, 탄탄면, 샤오롱바오, 꿔바로우",
+            "endTime": "15:00",
+            "location": "베네시안 북방관",
+            "remarks": "#북방관",
+            "startTime": "13:00",
+            "travelDate": "2025-09-07"
+          },
+          {
+            "content": "수영하기",
+            "endTime": "18:30",
+            "location": "파리지앵 수영장",
+            "remarks": "#파리지앵 아쿠아 월드",
+            "startTime": "15:00",
+            "travelDate": "2025-09-07"
+          },
+          {
+            "content": "골든릴 타기",
+            "endTime": "20:00",
+            "location": "스튜디오시티 골든릴",
+            "remarks": "#골든 릴",
+            "startTime": "18:30",
+            "travelDate": "2025-09-07"
+          },
+          {
+            "content": "저녁식사",
+            "endTime": "22:00",
+            "location": "스튜디오시티 딘타이펑",
+            "remarks": "#딘타이펑",
+            "startTime": "20:00",
+            "travelDate": "2025-09-07"
+          },
+          {
+            "content": "숙소 복귀 후 취침",
+            "endTime": "22:30",
+            "location": "파리지앵 호텔",
+            "remarks": "#파리지앵 호텔",
+            "startTime": "22:00",
+            "travelDate": "2025-09-07"
+          }
+        ],
+        "title": "9월 3일"
+      },
+      {
+        "itineraries": [
+          {
+            "content": "아침식사",
+            "endTime": "08:00",
+            "location": "피리지앵 르 뷔페",
+            "remarks": "#르 뷔페",
+            "startTime": "07:00",
+            "travelDate": "2025-09-08"
+          },
+          {
+            "content": "수영하기",
+            "endTime": "10:00",
+            "location": "파리지앵 수영장",
+            "remarks": "#파리지앵 아쿠아 월드",
+            "startTime": "08:00",
+            "travelDate": "2025-09-08"
+          },
+          {
+            "content": "퇴실 후 공항 이동",
+            "endTime": "11:30",
+            "location": "파리지앵 호텔",
+            "remarks": "",
+            "startTime": "10:00",
+            "travelDate": "2025-09-08"
+          },
+          {
+            "content": "출국심사 및 공항대기",
+            "endTime": "14:10",
+            "location": "마카오 공항",
+            "remarks": "",
+            "startTime": "13:30",
+            "travelDate": "2025-09-08"
+          },
+          {
+            "content": "한국 도착",
+            "endTime": "19:00",
+            "location": "인천공항",
+            "remarks": "",
+            "startTime": "14:10",
+            "travelDate": "2025-09-08"
+          }
+        ],
+        "title": "9월 4일"
+      }
+    ],
+    "endDate": "2025-09-08",
+    "planTitle": "여행 샘플1",
+    "startDate": "2025-09-05"
+  }
+]
