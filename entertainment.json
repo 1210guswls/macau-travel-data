@@ -9,7 +9,7 @@
     "latitude": 22.1934,
     "longitude": 113.5405,
     "siteUrl": "https://www.macaotourism.gov.mo/ko/sightseeing/senado-square",
-    "imageRes": "senado"
+    "thumbnailImage": "senado"
   },
   {
     "id": 301,
@@ -22,7 +22,7 @@
     "latitude": 22.1955,
     "longitude": 113.5412,
     "siteUrl": "",
-    "imageRes": "jerky_street"
+    "thumbnailImage": "jerky_street"
   },
   {
     "id": 302,
@@ -35,7 +35,7 @@
     "latitude": 22.1946,
     "longitude": 113.5413,
     "siteUrl": "https://www.macaotourism.gov.mo/ko/sightseeing/st-dominics-church",
-    "imageRes": "st_dominics"
+    "thumbnailImage": "st_dominics"
   },
   {
     "id": 303,
@@ -48,7 +48,7 @@
     "latitude": 22.1975,
     "longitude": 113.5408,
     "siteUrl": "https://www.macaotourism.gov.mo/ko/sightseeing/ruins-of-st-paul",
-    "imageRes": "st_paul"
+    "thumbnailImage": "st_paul"
   },
   {
     "id": 304,
@@ -61,7 +61,7 @@
     "latitude": 22.1969,
     "longitude": 113.5415,
     "siteUrl": "https://www.macaumuseum.gov.mo/",
-    "imageRes": "macau_museum"
+    "thumbnailImage": "macau_museum"
   },
   {
     "id": 305,
@@ -74,7 +74,7 @@
     "latitude": 22.1973,
     "longitude": 113.5418,
     "siteUrl": "https://www.macaotourism.gov.mo/ko/sightseeing/fortaleza-do-monte",
-    "imageRes": "monte_fort"
+    "thumbnailImage": "monte_fort"
   },
   {
     "id": 306,
@@ -87,7 +87,7 @@
     "latitude": 22.1915,
     "longitude": 113.5435,
     "siteUrl": "https://www.newyaohan.com/en/",
-    "imageRes": "new_yaohan"
+    "thumbnailImage": "new_yaohan"
   },
   {
     "id": 307,
@@ -100,7 +100,7 @@
     "latitude": 22.1915,
     "longitude": 113.5458,
     "siteUrl": "https://www.wynnmacau.com/en/entertainment/tree-of-prosperity",
-    "imageRes": "prosperity_tree"
+    "thumbnailImage": "prosperity_tree"
   },
   {
     "id": 308,
@@ -113,7 +113,7 @@
     "latitude": 22.1800,
     "longitude": 113.5367,
     "siteUrl": "https://www.macautower.com.mo/",
-    "imageRes": "macau_tower"
+    "thumbnailImage": "macau_tower"
   },
   {
     "id": 309,
@@ -126,7 +126,7 @@
     "latitude": 22.1522,
     "longitude": 113.5517,
     "siteUrl": "https://www.galaxymacau.com/ko/grand-resort-deck/",
-    "imageRes": "grand_resort_deck"
+    "thumbnailImage": "grand_resort_deck"
   },
   {
     "id": 310,
@@ -139,7 +139,7 @@
     "latitude": 22.1522,
     "longitude": 113.5517,
     "siteUrl": "https://www.galaxymacau.com/ko/entertainment/fortune-diamond/",
-    "imageRes": "diamond_show"
+    "thumbnailImage": "diamond_show"
   },
   {
     "id": 311,
@@ -152,7 +152,7 @@
     "latitude": 22.1522,
     "longitude": 113.5517,
     "siteUrl": "https://www.galaxymacau.com/ko/entertainment/crystal-lobby-show/",
-    "imageRes": "crystal_show"
+    "thumbnailImage": "crystal_show"
   },
   {
     "id": 312,
@@ -165,7 +165,7 @@
     "latitude": 22.1522,
     "longitude": 113.5517,
     "siteUrl": "https://www.galaxymacau.com/ko/entertainment/galaxy-kidz-edutainment-center/",
-    "imageRes": "galaxy_kids"
+    "thumbnailImage": "galaxy_kids"
   },
   {
     "id": 313,
@@ -178,7 +178,7 @@
     "latitude": 22.1558,
     "longitude": 113.555,
     "siteUrl": "https://www.taipavillagemacau.com/en/",
-    "imageRes": "taipa_village"
+    "thumbnailImage": "taipa_village"
   },
   {
     "id": 314,
@@ -191,7 +191,7 @@
     "latitude": 22.1213,
     "longitude": 113.551,
     "siteUrl": "https://www.macaotourism.gov.mo/ko/sightseeing/coloane-village",
-    "imageRes": "coloane_village"
+    "thumbnailImage": "coloane_village"
   },
   {
     "id": 315,
@@ -204,7 +204,7 @@
     "latitude": 22.1287,
     "longitude": 113.5658,
     "siteUrl": "https://www.nature.iam.gov.mo/en/giant-panda-pavilion/",
-    "imageRes": "panda_pavilion"
+    "thumbnailImage": "panda_pavilion"
   },
   {
     "id": 316,
@@ -217,7 +217,7 @@
     "latitude": 22.1477,
     "longitude": 113.5596,
     "siteUrl": "https://www.teamlab.art/e/macao/",
-    "imageRes": "teamlab"
+    "thumbnailImage": "teamlab"
   },
   {
     "id": 317,
@@ -230,7 +230,7 @@
     "latitude": 22.1477,
     "longitude": 113.5596,
     "siteUrl": "https://ko.venetianmacao.com/entertainment/gondola-rides.html",
-    "imageRes": "gondola"
+    "thumbnailImage": "gondola"
   },
   {
     "id": 318,
@@ -243,7 +243,7 @@
     "latitude": 22.1477,
     "longitude": 113.5596,
     "siteUrl": "https://ko.venetianmacao.com/shopping/shoppes-at-venetian.html",
-    "imageRes": "grand_canal"
+    "thumbnailImage": "grand_canal"
   },
   {
     "id": 319,
@@ -256,7 +256,7 @@
     "latitude": 22.1437,
     "longitude": 113.5659,
     "siteUrl": "https://ko.parisianmacao.com/entertainment/eiffel-tower.html",
-    "imageRes": "eiffel"
+    "thumbnailImage": "eiffel"
   },
   {
     "id": 320,
@@ -269,7 +269,7 @@
     "latitude": 22.1437,
     "longitude": 113.5659,
     "siteUrl": "https://ko.parisianmacao.com/entertainment/qube-kingdom.html",
-    "imageRes": "qube"
+    "thumbnailImage": "qube"
   },
   {
     "id": 321,
@@ -282,7 +282,7 @@
     "latitude": 22.1437,
     "longitude": 113.5659,
     "siteUrl": "https://ko.parisianmacao.com/entertainment/aqua-world.html",
-    "imageRes": "aqua_world"
+    "thumbnailImage": "aqua_world"
   },
   {
     "id": 322,
@@ -295,7 +295,7 @@
     "latitude": 22.1417,
     "longitude": 113.5635,
     "siteUrl": "https://www.studiocity-macau.com/en/entertainment/golden-reel",
-    "imageRes": "golden_reel"
+    "thumbnailImage": "golden_reel"
   },
   {
     "id": 323,
@@ -308,7 +308,7 @@
     "latitude": 22.1417,
     "longitude": 113.5635,
     "siteUrl": "https://www.studiocity-macau.com/en/entertainment/water-park",
-    "imageRes": "studio_waterpark"
+    "thumbnailImage": "studio_waterpark"
   },
   {
     "id": 324,
@@ -321,7 +321,7 @@
     "latitude": 22.1417,
     "longitude": 113.5635,
     "siteUrl": "https://www.studiocity-macau.com/en/entertainment/super-fun-zone",
-    "imageRes": "super_fun"
+    "thumbnailImage": "super_fun"
   },
   {
     "id": 325,
@@ -334,7 +334,7 @@
     "latitude": 22.1417,
     "longitude": 113.5635,
     "siteUrl": "https://www.studiocity-macau.com/en/entertainment/legend-heroes-park",
-    "imageRes": "legend_heroes"
+    "thumbnailImage": "legend_heroes"
   },
   {
     "id": 326,
@@ -347,7 +347,7 @@
     "latitude": 22.1467,
     "longitude": 113.5658,
     "siteUrl": "https://www.cityofdreamsmacau.com/en/entertainment/the-house-of-dancing-water",
-    "imageRes": "dancing_water"
+    "thumbnailImage": "dancing_water"
   },
   {
     "id": 327,
@@ -360,7 +360,7 @@
     "latitude": 22.1522,
     "longitude": 113.5517,
     "siteUrl": "https://www.galaxymacau.com/ko/landing/open-top-bus-night-tour/",
-    "imageRes": "night_tour_bus"
+    "thumbnailImage": "night_tour_bus"
   },
   {
     "id": 328,
@@ -373,6 +373,7 @@
     "latitude": 22.1455,
     "longitude": 113.5615,
     "siteUrl": "https://ko.londonermacao.com/entertainment/changing-of-the-guard.html",
-    "imageRes": "londoner_guard"
+    "thumbnailImage": "londoner_guard"
   }
+
 ]
