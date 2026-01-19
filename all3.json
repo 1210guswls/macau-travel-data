@@ -60,7 +60,7 @@
             "travelDate": "2025-09-05"
           }
         ],
-        "title": "9월 1일"
+        "title": "9월 5일"
       },
       {
         "itineraries": [
@@ -129,7 +129,7 @@
             "travelDate": "2025-09-06"
           }
         ],
-        "title": "9월 2일"
+        "title": "9월 6일"
       },
       {
         "itineraries": [
@@ -190,7 +190,7 @@
             "travelDate": "2025-09-07"
           }
         ],
-        "title": "9월 3일"
+        "title": "9월 7일"
       },
       {
         "itineraries": [
@@ -235,7 +235,7 @@
             "travelDate": "2025-09-08"
           }
         ],
-        "title": "9월 4일"
+        "title": "9월 8일"
       }
     ],
     "endDate": "2025-09-08",
@@ -245,6 +245,7 @@
     "coverImageUrl": "parisian"
   }
 ]
+
 
 
 
