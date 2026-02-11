@@ -1,0 +1,63 @@
+{
+  "orderNumber": "ORD-20240211-001",
+  "orderDate": "2024-02-11 14:30",
+  "status": "출고대기",
+  "deliveryPersons": [
+    "김배송 (기사)",
+    "이배송 (기사)",
+    "박물류 (직배)",
+    "최운송 (용달)"
+  ],
+  "products": [
+    {
+      "id": 101,
+      "category": "종량제 봉투",
+      "subCategory": "가정용",
+      "standard": "10 리터",
+      "currentStock": 5200,
+      "orderedQuantity": 1500,
+      "quantityPerBundle": 100,
+      "barcode": "8801234567890"
+    },
+    {
+      "id": 102,
+      "category": "종량제 봉투",
+      "subCategory": "가정용",
+      "standard": "20 리터",
+      "currentStock": 3100,
+      "orderedQuantity": 800,
+      "quantityPerBundle": 50,
+      "barcode": "8801234567891"
+    },
+    {
+      "id": 103,
+      "category": "음식물 봉투",
+      "subCategory": "가정용",
+      "standard": "5 리터",
+      "currentStock": 10000,
+      "orderedQuantity": 2000,
+      "quantityPerBundle": 200,
+      "barcode": "8801234567892"
+    },
+    {
+      "id": 104,
+      "category": "박스테이프",
+      "subCategory": "포장용",
+      "standard": "50mm*40m",
+      "currentStock": 500,
+      "orderedQuantity": 120,
+      "quantityPerBundle": 6,
+      "barcode": "8801234567893"
+    },
+    {
+      "id": 105,
+      "category": "에어캡 롤",
+      "subCategory": "완충재",
+      "standard": "100cm*50m",
+      "currentStock": 80,
+      "orderedQuantity": 10,
+      "quantityPerBundle": 1,
+      "barcode": "8801234567894"
+    }
+  ]
+}
