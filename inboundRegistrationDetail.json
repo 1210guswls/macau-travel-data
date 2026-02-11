@@ -1,0 +1,58 @@
+{
+  "inboundId": 1001,
+  "manufacturer": "그린봉투",
+  "managerName": "김봉투",
+  "status": "입고 대기",
+  "products": [
+    {
+      "productId": 501,
+      "categoryName": "종량제 봉투",
+      "subCategoryName": "가정용",
+      "standardName": "10 리터",
+      "waitingQuantity": 3000,
+      "orderedQuantity": 1500,
+      "quantityPerBundle": 100,
+      "barcode": "8801234567890"
+    },
+    {
+      "productId": 502,
+      "categoryName": "종량제 봉투",
+      "subCategoryName": "가정용",
+      "standardName": "20 리터",
+      "waitingQuantity": 1500,
+      "orderedQuantity": 800,
+      "quantityPerBundle": 50,
+      "barcode": "8801234567891"
+    },
+    {
+      "productId": 503,
+      "categoryName": "종량제 봉투",
+      "subCategoryName": "가정용",
+      "standardName": "50 리터",
+      "waitingQuantity": 1000,
+      "orderedQuantity": 500,
+      "quantityPerBundle": 25,
+      "barcode": "8801234567892"
+    },
+    {
+      "productId": 504,
+      "categoryName": "음식물 봉투",
+      "subCategoryName": "가정용",
+      "standardName": "3 리터",
+      "waitingQuantity": 2000,
+      "orderedQuantity": 2000,
+      "quantityPerBundle": 200,
+      "barcode": "8801234567893"
+    },
+    {
+      "productId": 505,
+      "categoryName": "음식물 봉투",
+      "subCategoryName": "가정용",
+      "standardName": "5 리터",
+      "waitingQuantity": 800,
+      "orderedQuantity": 400,
+      "quantityPerBundle": 100,
+      "barcode": "8801234567894"
+    }
+  ]
+}
