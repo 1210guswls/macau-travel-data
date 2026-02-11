@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "status": "배송중",
+    "paymentStatus": "결제 완료",
+    "orderNumber": "DLV-20240211-001",
+    "orderDate": "2024-02-11",
+    "productName": "종량제 봉투 10L",
+    "totalQuantity": "1,500",
+    "salesStore": "서울 강남점",
+    "deliveryDay": "월요일"
+  },
+  {
+    "id": 2,
+    "status": "배송완료",
+    "paymentStatus": "현장 결제",
+    "orderNumber": "DLV-20240211-002",
+    "orderDate": "2024-02-11",
+    "productName": "투명 비닐 50L",
+    "totalQuantity": "500",
+    "salesStore": "경기 수원점",
+    "deliveryDay": "화요일"
+  },
+  {
+    "id": 3,
+    "status": "배송중",
+    "paymentStatus": "결제 완료",
+    "orderNumber": "DLV-20240211-003",
+    "orderDate": "2024-02-11",
+    "productName": "박스테이프 50mm",
+    "totalQuantity": "200",
+    "salesStore": "인천 부평점",
+    "deliveryDay": "수요일"
+  },
+  {
+    "id": 4,
+    "status": "배송완료",
+    "paymentStatus": "현장 결제",
+    "orderNumber": "DLV-20240211-004",
+    "orderDate": "2024-02-11",
+    "productName": "음식물 쓰레기 봉투 5L",
+    "totalQuantity": "3,000",
+    "salesStore": "부산 해운대점",
+    "deliveryDay": "목요일"
+  },
+  {
+    "id": 5,
+    "status": "배송중",
+    "paymentStatus": "결제 완료",
+    "orderNumber": "DLV-20240211-005",
+    "orderDate": "2024-02-11",
+    "productName": "A4 복사용지 80g",
+    "totalQuantity": "1,000",
+    "salesStore": "대전 유성점",
+    "deliveryDay": "금요일"
+  }
+]
