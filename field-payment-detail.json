@@ -1,0 +1,26 @@
+{
+  "orderNumber": "DLV-20240211-001",
+  "orderDate": "2024-02-11 14:30:22",
+  "totalQuantity": 20,
+  "totalAmount": "45,000",
+  "products": [
+    {
+      "id": 201,
+      "category": "종량제 봉투",
+      "subCategory": "가정용",
+      "standard": "10 리터",
+      "unitPrice": "1,500",
+      "quantity": 10,
+      "amount": "15,000"
+    },
+    {
+      "id": 202,
+      "category": "종량제 봉투",
+      "subCategory": "가정용",
+      "standard": "20 리터",
+      "unitPrice": "2,500",
+      "quantity": 5,
+      "amount": "12,500"
+    }
+  ]
+}
