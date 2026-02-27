@@ -1,0 +1,8 @@
+{
+  "latestVersion": "1.3.0",
+  "minimumSupportedVersion": "1.0.0",
+  "updateType": "OPTIONAL",
+  "title": "업데이트 안내",
+  "message": "새로운 기능이 추가되었습니다. 업데이트 하시겠어요?",
+  "storeUrl": "https://play.google.com/store/apps/details?id=kr.co.hectofinancial.greenone.inventory"
+}
