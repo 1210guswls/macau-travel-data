@@ -1,0 +1,26 @@
+{
+  "paymentOrderNumber": "131313241331",
+  "paymentOrderDate": "2026.10.20",
+  "paymentTotalQuantity": 150,
+  "paymentTotalAmount": "20000",
+  "paymentProducts": [
+    {
+      "id": 1,
+      "category": "종량제 봉투",
+      "subCategory": "가정용",
+      "standard": "10",
+      "unitPrice": "100",
+      "quantity": 100,
+      "amount": "10000"
+    },
+    {
+      "id": 2,
+      "category": "종량제 봉투",
+      "subCategory": "가정용",
+      "standard": "50",
+      "unitPrice": "200",
+      "quantity": 50,
+      "amount": "10000"
+    }
+  ]
+}
