@@ -1,9 +1,9 @@
 {
-  "orderNumber": "DLV-20240211-001",
-  "orderDate": "2024-02-11 14:30:22",
-  "totalQuantity": 20,
-  "totalAmount": "45,000",
-  "products": [
+  "paymentOrderNumber": "DLV-20240211-001",
+  "paymentOrderDate": "2024-02-11 14:30:22",
+  "paymentTotalQuantity": 20,
+  "paymentTotalAmount": "45,000",
+  "paymentProducts": [
     {
       "id": 201,
       "category": "종량제 봉투",
@@ -23,4 +23,5 @@
       "amount": "12,500"
     }
   ]
+
 }
