@@ -1,0 +1,32 @@
+{
+  "orderNumber": "1323424242413131",
+  "orderDate": "2026.01.10",
+  "deliveryPersons": [
+    "홍길동",
+    "이순신",
+    "강감찬",
+    "을지문덕"
+  ],
+  "products": [
+    {
+      "id": 1,
+      "category": "종량제 봉투",
+      "subCategory": "가정용",
+      "standard": "10 리터",
+      "stockQuantity": "10,000,000",
+      "orderQuantity": "100",
+      "bundleQuantity": "5",
+      "inputQuantity": ""
+    },
+    {
+      "id": 2,
+      "category": "종량제 봉투",
+      "subCategory": "가정용",
+      "standard": "50 리터",
+      "stockQuantity": "3,000",
+      "orderQuantity": "50",
+      "bundleQuantity": "10",
+      "inputQuantity": ""
+    }
+  ]
+}
