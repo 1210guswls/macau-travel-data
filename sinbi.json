@@ -1,12 +1,67 @@
 {
   "last_updated": "2026-04-27",
-  "total_count": 1,
-  "current_progress": 1,
+  "total_count": 12,
+  "current_progress": 12,
   "ghosts": [
     {
       "id": 1,
       "name": "가루다",
       "imageUrl": "https://i.namu.wiki/i/fU3SYvYSh_AaMq6zDUEtaZDt7zkeKAlAbhHthlLZmSgSUtNIVPdXWaOBD7mi0s_p8bxHfp3-HXE3cP8aPDahlslspM7BUM_9KxSwg6e19guOqjFbXUvYv0qI_r50L0w3iTTqs8BKWZ83THgRd2zzDg.webp"
+    },
+    {
+      "id": 2,
+      "name": "가면귀",
+      "imageUrl": "https://i.namu.wiki/i/DwGwugJfrfSRwvUd7ZElVqJ0W7Z0O7lRPgeeKicjDo8wg7njpikZHwJzFVg-yT1g3PxArW2f2UqOyhnZdOnK90LC2rlBWIbYC0wydM3KycB1G7q3yLhOdk1-cSSUI5wPkK59WduQAO4Z7WUs2LwYEw.webp"
+    },
+    {
+      "id": 3,
+      "name": "각귀",
+      "imageUrl": "https://i.namu.wiki/i/cOLJO1Qo047imsXyWtn7Zx132WZcw_dZPC0ky5XUWLVdIkZZ_1C5z-SZcu5nE_MqLz9vXWYbK3uSfM4u6nSO7pvtUiXHTendWcBy-B_fovWsoPHvFKmvTYeQAIHrLJptoYknTjhfesKGSKm7oydMog.webp"
+    },
+    {
+      "id": 4,
+      "name": "강시",
+      "imageUrl": "https://i.namu.wiki/i/GnSGMO2ObaoEguJCA_VT0ThdfcXvbPnVT5h0h_1rq9JrWW5lSRJF4egDROjR8LkpA5WhClRpgIDuHAz9j8v3uN8jfespmvOHPpHCiCYEgbnslVMMEdCh9soEBqHJRXw3F0m-Dwr0iPbpo4iDT8Oypg.webp"
+    },
+    {
+      "id": 5,
+      "name": "강철목귀",
+      "imageUrl": "https://i.namu.wiki/i/hZGe6XKM5jhMcHc6BF7QoFMUvxgY2cuplvqrF2IZFNxBz5-PDXDGpvJkJjP242oZP_maZi7RlXRc_Ren6eyuVIMFzYlJ477B1U5AVcJTcCx6bU8Wxm5b18reHbmmUFB_BHdQ4726AXqr3KMUTbgjtw.webp"
+    },
+    {
+      "id": 6,
+      "name": "강철이",
+      "imageUrl": "https://i.namu.wiki/i/RcRp1ZcD69HOE_rc03EySKTZ4hL92o63rsJP8pSEuHkdxgRFCqZw0vMXbH7gl-5eUn-3pkBI-VyeC__pO285aNZ5WR8gUzungsiqC7LNCuaynsV3aQkqMW8ndFiOF6xd6_506Iv5s2W6Os-NK--YEg.webp"
+    },
+    {
+      "id": 7,
+      "name": "객귀",
+      "imageUrl": "https://i.namu.wiki/i/iY2ax46vAkJtsVghdyRIJ34Oqjx9ma3i0wc-C1_WlTuXWL6pKzpcNDJkLaFyfb1fjaWlXbkf9V5jumIHx3P0-fVmtSNmIgIUxZXllhUWVstg8_UULrGFobTqMaT82eoMyx1hikfCub4txJj3BQnq3Q.webp"
+    },
+    {
+      "id": 8,
+      "name": "골렘",
+      "imageUrl": "https://i.namu.wiki/i/ZnBxCDDhlJMlnzRyZMH1xlg7lmJmzFcgwKsvV0V0NfPtNZInYEQ5F6JQ42O_RMJ0gvP3hTeTnz3TUcD8U-xVQJ6qO3xychlx8h_qDqSk5DlrY3JVYX5nuZS9JSqi511jVluKBDV9vgSYULGcoVzXcA.webp"
+    },
+    {
+      "id": 9,
+      "name": "골묘귀",
+      "imageUrl": "https://i.namu.wiki/i/Y2jO9ByavminTA-tNT1egqJvrSAIfQ2z_xiGHa_jKzxCQxWbILwdrFUsV7vXeqpIiRT7Mul66LaA1Pva42meB8SLGVGO5GyS6T-OdxgoFCeqGSN2fMbrl1O6XkZtQMFdwCWTantOCNjskeTq1p_qOA.webp"
+    },
+    {
+      "id": 10,
+      "name": "구묘귀",
+      "imageUrl": "https://i.namu.wiki/i/hJeotX_QHOsVMvcoiVB02IUaPQ3H-SnNw_e9ljitaxUjgLierwtebIS3EW5VSmToAS5bJlVzs8G2EQt906SxU6HYIzVKnfNffLMb072I668Yq6XmRptZ4QM6wmDYYnqf1PBUjTPs5wXyM7nsDrONiQ.webp"
+    },
+    {
+      "id": 11,
+      "name": "구묘주귀",
+      "imageUrl": "https://i.namu.wiki/i/TMKDXvysDdLlrG0X6XuBvf9K7-enemdYVTVqH8rgkXVguHuY_TKur-wbi245-rfrJpyXiUXO_ZQHqbInDIA_VfuKZXV9eJmoTuIyXRpw4s2baS19wDVHL4LXf-lary1dOfpCQuIkmzgQPpEzpi9ssA.webp"
+    },
+    {
+      "id": 12,
+      "name": "구차귀",
+      "imageUrl": "https://i.namu.wiki/i/Q3R0HQFu4phBXxvpwQwi8YSXL1U7O_qy1u2tIk6Onu8tWp8vsUq5-cUAtF7gWlHXcWChej63oA3oMt_tSXtxHPSM-UAkwVsL0yl2zU0BvOLQdcPeTfS7lJy0VvNS7Yg37qd3mrgDxh0oKvOmPFdOWA.webp"
     }
   ]
 }
