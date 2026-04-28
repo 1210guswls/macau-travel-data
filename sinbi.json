@@ -1,7 +1,7 @@
 {
   "last_updated": "2026-04-28",
-  "total_count": 51,
-  "current_progress": 51,
+  "total_count": 91,
+  "current_progress": 91,
   "ghosts": [
     {
       "id": 1,
@@ -257,6 +257,206 @@
       "id": 51,
       "name": "두억시니",
       "imageUrl": "https://i.namu.wiki/i/_sT9i7VqjSXpj1P1mSvepnQhL0qStZbF0hCOqswyfpKXAwXJbnnCR0y8YgAJICwxhkPdi_vlMugE3XQwjdZ2CDq873MaGIEd3b55imEvw7yacsXBYocrsyoHib5_aG-ONQlobt5wUB5EfWRitEyiAA.webp"
+    },
+    {
+      "id": 52,
+      "name": "샌드맨",
+      "imageUrl": "https://i.namu.wiki/i/QXXe4k0n5WisMss1Za7BdbkBCTgORJRNky4g9Se8ABx3Fd9iBUscCpNTiEh5FzVbPuuKRH2lqzFJTbNLFLf3QUkMWngKdzM3jS7gSQ84Qt_QuXSf-HPefdclH7mBot5rZG1JfK4VUw20mr1yowrTsw.webp"
+    },
+    {
+      "id": 53,
+      "name": "구묘귀",
+      "imageUrl": "https://i.namu.wiki/i/mCL8qcQ7zlR9L9liULSGU1IEtiJLAuDL2BYLZlAdI4c5QY-NkvE_adtsym6G1aFTvZq9oOxof1TnEeGhInDR1QAvwdpL7CuCfEqoY3hoJd1yWcdWPNGGXvHQfBLcfRr2jQG8W1gf8IY5Xl5HgJAANQ.webp"
+    },
+    {
+      "id": 54,
+      "name": "악창귀",
+      "imageUrl": "https://i.namu.wiki/i/O_644ZKvE6rNzNx6OK7_RVz_eE0haNP1qNvSj084qw843QG2CKlhoc9wgmUuABiaUbs21WdRVhCTj2dqgbg6skhq0ZAC2h_ZuJE55Re89NVhYnEQXgX4_uT6aOwwldDKgTXLy5wJkq6qJKYttm0z1Q.webp"
+    },
+    {
+      "id": 55,
+      "name": "이무기",
+      "imageUrl": "https://i.namu.wiki/i/LIS7ONkUSxZtQGA_GysuO4cqW0HQBs-Omd5n2L0ho5wEKo1Ye4O0TgEIoDT4X2rRFnLrxaWwnMiyl-KJ6G8kljRRr-OqlN4_9-7MySA8BmA_R7Ouf1RbsTHQsT00ptwxKNuevNCokMAH2RpE0U16Tg.webp"
+    },
+    {
+      "id": 56,
+      "name": "이무기",
+      "imageUrl": "https://i.namu.wiki/i/7gVXSHxx_4JyKJp4PL7OfJ6zE0K2AeYXrzXdndd1WBB383TW_NPFiEEw5ABLT8Doba37qLVBPKoitDiCUThYgkFnSCT3TWUQpFhyeqxrLTGwBE7bsAJdB2oSagZTvCQ2ZlZlMhIBmf9WqOte5FIyRg.webp"
+    },
+    {
+      "id": 57,
+      "name": "야저귀",
+      "imageUrl": "https://i.namu.wiki/i/OCqp08JFvOcRlZ4P2mOgO6Mrreq4tkOd4HZvuZJMBt9GIHD0QipZSpvfFQpPMctAbHVGYyYwdJtp7Az2-zIYmw4qc9Yj2PkS535QR8-CwOadqw-LZjGikqbGY-M4ZnUc2TgQVbkGB3E5ExpcwgCJlw.webp"
+    },
+    {
+      "id": 58,
+      "name": "도플갱어",
+      "imageUrl": "https://i.namu.wiki/i/hfbDjo3PMrc56TrdhnKkD2Pz5WXCdnKJjXLfURGdBcer9rXO8FbV9DgTus1dMpGfO51CKEB18JRjUUgy8XqEKEqvAY9QFTNZV4NWu9d89LSgKBAFZqfHZTV6FXay6Kpbply4wRmhg4fsbXS4d7QCbQ.webp"
+    },
+    {
+      "id": 59,
+      "name": "벨페고르",
+      "imageUrl": "https://i.namu.wiki/i/ys8pqcYAozZK6r6tkRf9RQzVqg8T2c4UXtS9zD-cfYXvIe825ekSadO4OCd85mLbM5cZiJ_7wNEDH8RnQxCXapgMExxVqFBzRzlqpPTqWBw-SqKhX9Mrnr9OZyCsd0bc7GIVIHLqr7TuFu8shL7xkg.webp"
+    },
+    {
+      "id": 60,
+      "name": "충목귀",
+      "imageUrl": "https://i.namu.wiki/i/EN5xTQFn3tef5U6PqUTZw6VHY1hJxP6XRSyg8Qwy5Q32sUIG-tAwv1BTamE7MlbF175S7KeoMEPMqImmGUwOAsAHJnPAVWf_MsDcelKKqVWkpz6xUyr7EUXC8NRolUpsdgZiKJaaCSMFK6jURe8MyQ.webp"
+    },
+    {
+      "id": 61,
+      "name": "웬디고",
+      "imageUrl": "https://i.namu.wiki/i/QCTepMm7gyE_QxC58H7ajY3KN-7feGhzaJbpvvUwd0E1TcH91shD14FvxE03pfMRnP-YXaYZ7l9DblUBuVOv8ABbZkMzpJj0hk5rxTMOzu2dPqDPDzLY1Uttp_UaVcd3dvOVdlvOBywjH_99_uMr2Q.webp"
+    },
+    {
+      "id": 62,
+      "name": "자간",
+      "imageUrl": "https://i.namu.wiki/i/s5PV9cQSjq7ftAp61ktWmwgXEwJZUvy7cKVngwytfemN4T85NuLvZPjmczN-jJNO101kh5YQ1T7tUH8bVswi5xeJ4QKwbFw4TVR4tiBUOjl54dZTBCJj7aCZYMvExvxsqMIWsgeuwNgmQ3FsAFjdrA.webp"
+    },
+    {
+      "id": 63,
+      "name": "토면귀",
+      "imageUrl": "https://i.namu.wiki/i/a0LtnSoh6nCjurP7mHX687OWV939b29hjYwSqqmkLSBFH-T-SixvR3wk4tfg_MEoZPffRdghsOGJmNKYpTlMbJD4kmSG1G0YDfZF3B5eLUIEvBGFn0bXgnYOTlGdiniKNxDR6FCE163fTPY1r8llwg.webp"
+    },
+    {
+      "id": 64,
+      "name": "적목귀",
+      "imageUrl": "https://i.namu.wiki/i/iIXvEQEVI7yWVL5dnPkSojrYAiexxFTDSASkvM2c4GDU5VgjwYgVTflaK9C8XR4PE_oe1xp7G5eJc6RzuFQUFSG4rVK6rs1kEynhxfy6u_DAdl5LlHi96hQP0idSQh9sSopc5VJWG0jPU16SPPSmWg.webp"
+    },
+    {
+      "id": 65,
+      "name": "오피키언",
+      "imageUrl": "https://i.namu.wiki/i/s8G1XlHmL49A9c-sFQP3-IHgsbJHoNvHYhZiBJCiK2Opyr5EMLGPYc0od9qQdvm7QsGi6XHgRB87p0liLe05Izp6m1jBnwwyihS6t_KsXeQiKAJPS__-ZcaOYdkuk2122ZjolJ5T3w9xICJngVH7ew.webp"
+    },
+    {
+      "id": 66,
+      "name": "백의제붑",
+      "imageUrl": "https://i.namu.wiki/i/6ZvCf3O8KysPYEW__hIKLa6W1FOtGb-Hf_bXhwSBFEO5FoQXJU5qlDB_Ad2x7D0rbeW_UDfn8uXcjIelqR_F5ZFyFWQtKvn4PgR1QAyPCgzyucj5QDpAUYVYZSUvHcWDo-LgHU3gDKuZGDj7DSua2Q.webp"
+    },
+    {
+      "id": 67,
+      "name": "악창괭이",
+      "imageUrl": "https://i.namu.wiki/i/KXLriL_vX6KX-js69T_PZnX4-ob8xVYQqkt5wc9NgQRqDDxaylqV_zU1LXCSeySMI-wMlQDHQ87XMYSZlgs6caRDDR1-yEg9IV9YaHT2ULNbGTgFOTfEvOtj6SSvvRNb57-zFWhEjg6xEGkQe5LFFQ.webp"
+    },
+    {
+      "id": 68,
+      "name": "벽슬렌더",
+      "imageUrl": "https://i.namu.wiki/i/AH-PNBcL1AH6XgyhGOGVYzThvdwU25mXj-mc6p20g8ZCiYnt5LWB6CTYkFHx1aLYgutomGMVh1Ndq50u5_vjGZAkrobzRm5W51FGQrO-x0xPe-eV0UU2lAUREv6nVYKOYYRwu1wcQGwW_baqaGJoFQ.webp"
+    },
+    {
+      "id": 69,
+      "name": "살음쟁이",
+      "imageUrl": "https://i.namu.wiki/i/h5idK7_trB6BISnVo-eLPunv8zyd6z0nNwRumeAAfIMxYW4bDOb0rttUJFSRwDFbsswxiXvm0aKvd5dP8q0zfpWfJKSNaTUqr0b6sN1PCMPE3x82QwSK1XbBCDaVI39M57kTqym5FdiLexnbU2sh_w.webp"
+    },
+    {
+      "id": 70,
+      "name": "만티 두억시니",
+      "imageUrl": "https://i.namu.wiki/i/bE_7XydOB3_sKBJUJxpyfagV9NMmUB8V5A90pnpmOKeW9FMyvE5BmxpUSYu6GVOuyGflm4zs-Ad0Lmyn0sJ-mfBrSh7XTqdDvrWdDfbGmSkiCy5bMpp-37EWZWC00TpTcIY4crZL8MGjDqVTcWvaAA.webp"
+    },
+    {
+      "id": 71,
+      "name": "장산범",
+      "imageUrl": "https://i.namu.wiki/i/CbcXQsw98ycgLB7dpafehzG_z60oJeeODEAQtAX_SuHt9BeUFhutaLU1WiSaYcF90dUl4_jlf6Ckc7xhjLHjpUM2mlrH27Wm3lxP-hMbGEczk1LG2YhRBjLs_xcFNGaXZOlVkXu97Q3Fcrkwq8-_NQ.webp"
+    },
+    {
+      "id": 72,
+      "name": "향랑각시",
+      "imageUrl": "https://i.namu.wiki/i/G2hcbgqHyeqyMv4KR3qdxJ6MfcnTx7BXnSwzCTgfJX_0kDuoFEAOeaf-Xl3XKt22xa5-3cGDk3T1C8Oxia9S4-Lmb_aC6wR7d8qIV5Em6SY97e3tdTZAlt04cWDoTX5nTdLrcfOjwnsDNaMVgdNbwg.webp"
+    },
+    {
+      "id": 73,
+      "name": "블랙아이드",
+      "imageUrl": "https://i.namu.wiki/i/CHPzA-KSHPwQeY1lfHlr8Tpj9QL4VR7yEaDIcvEiFAMEi29CQTT8g7rp3vved_70jgnudfGSqTVhMi3u6F9TNCqLKLbGCU3xhavj9Wg-2sjsPkLtmNgfM-TBu2wcYohpaRArC_Wel8t0OP9AjbnQGw.webp"
+    },
+    {
+      "id": 74,
+      "name": "머드맨",
+      "imageUrl": "https://i.namu.wiki/i/2yqjPPWipEySVd0g3LIwkUE6_BoO0-uAh02pe_ZfVzyGd8wCFh9ii6yJ5AyOYFhu1-fXyorxLGOpOToBDRkHbTis1qD4-L-iURVzZ7vaXzG67EAa1jAFvocpmkG-ey8OX5kkSZ9H5Wdz-FFXHm8ShA.webp"
+    },
+    {
+      "id": 75,
+      "name": "강시",
+      "imageUrl": "https://i.namu.wiki/i/n3ezqhn71fIETTm-ZzfNoYC7dVJRXVaOThrAYC1eQ-qqJ3U0SJy28MqAG9Et0nnBuK0OU28hLLKWL8uNqtH6C0zZo5TjnSsGztJF0HzPnLQ7uaP4KrgWflMZV6lHmt9acHpXBpk1H8B0IxwnkMRbXg.webp"
+    },
+    {
+      "id": 76,
+      "name": "포자귀",
+      "imageUrl": "https://i.namu.wiki/i/2q0kg6qVTz-T6sf64tug3gQNcWHJHavWdGk4LPEp8pc2JADtTxaAgUvRYBqw2QObV9d621ADGtnCvfL4gK_VcQsr757Ip-M8kfhDlrirDI9wd4RvCXsiWEznp23Qd7naXycXhmYULQlxuDCx0vTosg.webp"
+    },
+    {
+      "id": 77,
+      "name": "포자귀",
+      "imageUrl": "https://i.namu.wiki/i/Jip9hitD715TtEUcIwJFaEtyOZ6lpeYAIs2ckVfpEblfOUd6N6l6dsdlKG7K8jLNgxBaMrXHZvH9Hz1i_aFjzCfCs1PzZDLZYtExmLLp4onyMlE11rnQDHpdDiGFWcSes8_4i0AXiBXetLJP9B9s4g.webp"
+    },
+    {
+      "id": 78,
+      "name": "추파카브라",
+      "imageUrl": "https://i.namu.wiki/i/DWKIhNq93xCY5ro3_olduKGulJ4gw3MDnSDwgWlXRJ_qVOLbuo5E8jr14j9cxdPNl2E2wQMZP-Pqtdm0cbiPzDIQCURHv8ZxfoNg7mCU6CrF5TWE7bd1CTaKhr7F-jbSgkgeLe57qahr2368F5vnwQ.webp"
+    },
+    {
+      "id": 79,
+      "name": "시온",
+      "imageUrl": "https://i.namu.wiki/i/ujB9QGn5s4UEih8MpOOS_vC2ByBfgP2B2VXYs9oUwuQoZhMp75FLczLsy4weuO93M1Ii6fsdv9OKeP9lXLcXryPM0UMRmLVA4v_THXEyXns9GYqh8j4zfx4C29qqyF8fIpylNUDnL_uqRGJ1yrhrTQ.webp"
+    },
+    {
+      "id": 80,
+      "name": "화동귀",
+      "imageUrl": "https://i.namu.wiki/i/yhRAfcQdcE_FU3xIgfWz8WXwRwi8Ihw88JkM2SCM39cWy71B-1zFm8hy8YAIU2H1_8sNG-rDDJpByUmKVPcaC2sdTmTYDb9cVrxTb9JioI1i1lvGAPOQQSZGGx4vqPRNz7g2_47C4INO0rE-lmhMDA.webp"
+    },
+    {
+      "id": 81,
+      "name": "사일런스하피",
+      "imageUrl": "https://i.namu.wiki/i/c2aCKbdzlESoZMum6nsN-eJgn6iwfZMrGkM_1YEBSIT8ZXcW6ttfl3K_KZN_2fZ08MTn12MN-5s63JvajSizNBGHymc2QqSMAyOEUZime_fAnn8K2le4SiSH09WbTbJcewKpfxKpH6B5ih-_QeOuBw.webp"
+    },
+    {
+      "id": 82,
+      "name": "사일런스하피",
+      "imageUrl": "https://i.namu.wiki/i/3-uR0cFji9XjW-VlXqTz7RqR211M5rWIf4T_tvybccoOSWWQDnfwxUvSJQs--Fvrc1_usW-dcXPj5pkzJemmPJ9lrZyGJbdKfiFbqQzN2lcPWgPj0YbwVeR3BhXR_HxvAQ3PRgBvFlyJxuhn9Ye2rw.webp"
+    },
+    {
+      "id": 83,
+      "name": "가면귀",
+      "imageUrl": "https://i.namu.wiki/i/oS1Bh-oHLlVRoFy1xxVXXepOrQdV3SgqaTle5-6uPv9Id3Htt2htgQHDC5oNrL5JJ3hV6hFHX4fRJBgKVc3uFIFtp0YIHQh5ZiFBLVa3Cha6qNnF7GbAu9Q0oygAsPnO62Zt7bnHn1pPUi5KkoY57Q.webp"
+    },
+    {
+      "id": 84,
+      "name": "멧돼지귀신",
+      "imageUrl": "https://i.namu.wiki/i/Mr5PV-H2Vvwk3SXHHZ6ZpI00pYtR0-jYy3_6o1221CQwc43xy8pDhmsocYUVksGeOUk3qhhTptfWWKOpoCkBGa1tnBglGO_bv4Rjz2Edz7k6SBBMldITslamq0_cr_RzlFlQ9VoclXyftTYPZVOq9g.webp"
+    },
+    {
+      "id": 85,
+      "name": "메두사",
+      "imageUrl": "https://i.namu.wiki/i/Zfl-S79zz9n0wO2Cl6nBEogxKUMPhbjPNP-3Km0Wi6BNcXA9wOIXHJIJJAaigSO2IeFgQjpYe2eu9k_DytePuE9PX6k4Svt7K032RQ_Pfz_H5KD3WPyEKY0gqyshLm5-gmIrfCtIoMWS7tYK_0SRCg.webp"
+    },
+    {
+      "id": 86,
+      "name": "동상귀",
+      "imageUrl": "https://i.namu.wiki/i/E4hup1Njb4WWYLEoMpTvRke_s-D4RPVV0aDmxzBUKEnx1cVtIy3qtQnITUJebAV81pECUjYxtM_GvJsicowz_B0zyiZiyEaEbW8qyIidB8rxOGms8jzTTMs4gnhPXt2Pz0IOuUR_AeoyttTxqL4Rgg.webp"
+    },
+    {
+      "id": 87,
+      "name": "사토룡",
+      "imageUrl": "https://i.namu.wiki/i/0taqBofmL2Wd7VbwQPfgQJo4fPDV5KySSgjcWRQZzAnzNr_ijE0vi7gWGYRFF8eJ8SAYqAlx-jz-tgyiNwv-huN7HuQogVb0vfmMbUZms6RvDkN28442SL9hqPF3mGO4FuCxS3mAHEoZ7mKMg6lB8g.webp"
+    },
+    {
+      "id": 88,
+      "name": "구묘주귀",
+      "imageUrl": "https://i.namu.wiki/i/ZA6hHAmjBoPG8NNK5pMKaF4ds14m40rZBipYxYKNJWASY7aJxA7esy4b8wPwUcbCMEDGRoTgWR8azSQ_fNf62aTHGlU06lIW_6KyvJFVeGu94boAsAseUuABNg34uDIHa1tlu9wnqDrU6Orrni0iZw.webp"
+    },
+    {
+      "id": 89,
+      "name": "야저괭이",
+      "imageUrl": "https://i.namu.wiki/i/Ni7vXbG4xfDCeK4QPQxcSrL9WqqVjlx888RkmjX_JZMIIrxne2zbl2pHXtNUO7kg6a3JN3O2d30S4Jtdz73_iRQc5YMLuDseJkTec0S-uTkMGDSJtvPGgT11jAK5Q_6WNZN7nt7bQg1I5WfjZDpD4Q.webp"
+    },
+    {
+      "id": 90,
+      "name": "적슬렌더",
+      "imageUrl": "https://i.namu.wiki/i/fq82hvFVMCiaOyplim5jBaDDMYsDxLz3PQoxuFU9VsMjMUGQUkKaq3pr6BFChQsr9v6E4b1zWpDkvdoR9q2T6eMyBRPNf2vSeaF4S9ErnQYTHPRQRhE5yyb_Y_kFwmORUxaxpB8X1CKHLiFY7dDDWg.webp"
+    },
+    {
+      "id": 91,
+      "name": "웬디카브라",
+      "imageUrl": "https://i.namu.wiki/i/dk6ayty9rPtDI9rnoFTLyStP4T_4ex3Q6VtsnYPvrDndzAf8_8S7nJbDR0XAd8LYKx__l55-B-61sPZB-Jg8muih1rKCit36dg_FH5PndTm5ot2wTJHfrBr83Tq7ZsECMwn8m7oGezHXfHQY0Xm0Rg.webp"
     }
   ]
 }
