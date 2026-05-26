@@ -1,7 +1,7 @@
 [
   {
-    "planTitle": "2026 마카오 여행 (동선 최적화 v3 - 완벽 정복)",
-    "planText": "브로드웨이 1박 + 스튜디오시티 2박 연박 기준, 동선 낭비와 시간 낭비를 완벽히 제로로 만든 최종 계획표입니다.",
+    "planTitle": "2026 마카오 여행 (동선 최적화 v3.2 - 조이라이드 점심 추가)",
+    "planText": "브로드웨이 1박 + 스튜디오시티 2박 연박 기준, 마지막 날 14:10 대한항공 스케줄 및 11시 체크아웃 직후 조이라이드 다이너 점심까지 완벽 배치한 최종 마스터본입니다.",
     "startDate": "2026-06-27",
     "endDate": "2026-06-30",
     "coverImageUrl": "studiocity",
@@ -210,26 +210,50 @@
         "itineraries": [
           {
             "content": "호텔 조식 식사",
-            "startTime": "07:00",
-            "endTime": "08:00",
+            "startTime": "07:30",
+            "endTime": "08:30",
             "location": "스튜디오 시티 레스토랑",
-            "remarks": "#7시 오픈 정각 식사",
+            "remarks": "#마지막 날 든든한 조식 뷔페",
             "travelDate": "2026-06-30"
           },
           {
             "content": "세나도 광장 및 세계문화유산 관광",
-            "startTime": "08:30",
-            "endTime": "10:00",
+            "startTime": "09:00",
+            "endTime": "10:30",
             "location": "마카오 본섬 세나도 광장",
-            "remarks": "#한적한 오전 세계문화유산 투어",
+            "remarks": "#오전 본섬 핵심 유적지 정복",
             "travelDate": "2026-06-30"
           },
           {
-            "content": "숙소 복귀 및 최종 체크아웃 후 공항 이동",
-            "startTime": "10:30",
+            "content": "체크아웃 및 짐 보관",
+            "startTime": "11:00",
             "endTime": "11:15",
+            "location": "스튜디오 시티 호텔",
+            "remarks": "#11시 정각 체크아웃 후 벨데스크에 캐리어 보관",
+            "travelDate": "2026-06-30"
+          },
+          {
+            "content": "조이라이드 다이너 점심 식사",
+            "startTime": "11:15",
+            "endTime": "12:15",
+            "location": "스튜디오 시티 1층 조이라이드 다이너",
+            "remarks": "#미국 복고풍 감성 버거/치킨롤 점심식사",
+            "travelDate": "2026-06-30"
+          },
+          {
+            "content": "짐 찾아서 공항 이동",
+            "startTime": "12:15",
+            "endTime": "12:30",
             "location": "스튜디오 시티 ➡️ 마카오 공항",
-            "remarks": "#11시 공항 셔틀 또는 택시 탑승",
+            "remarks": "#택시 탑승 (약 5~10분 소요)",
+            "travelDate": "2026-06-30"
+          },
+          {
+            "content": "대한항공 출국 비행기 탑승",
+            "startTime": "14:10",
+            "endTime": "19:00",
+            "location": "마카오 국제공항 ➡️ 인천공항",
+            "remarks": "#14:10 마카오 출발 / 19:00 한국 도착",
             "travelDate": "2026-06-30"
           }
         ]
