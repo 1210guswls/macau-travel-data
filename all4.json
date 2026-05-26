@@ -1,0 +1,295 @@
+[
+  {
+    "planTitle": "2026 마카오 여행",
+    "planText": "2026년 6월 실제 계획표입니다.",
+    "startDate": "2026-06-27",
+    "endDate": "2026-06-30",
+    "coverImageUrl": "parisian",
+    "days": [
+      {
+        "title": "6월 27일",
+        "itineraries": [
+          {
+            "content": "인천공항 출발 -> 마카오 도착 (대한항공)",
+            "startTime": "10:10",
+            "endTime": "13:00",
+            "location": "인천공항",
+            "remarks": "#항공권 왕복: 563,500원",
+            "travelDate": "2026-06-27"
+          },
+          {
+            "content": "입국 수속 및 브로드웨이 호텔 이동",
+            "startTime": "13:00",
+            "endTime": "14:00",
+            "location": "마카오 공항",
+            "remarks": "#호텔 이동",
+            "travelDate": "2026-06-27"
+          },
+          {
+            "content": "브로드웨이 호텔 짐 보관 후 그랜드 리조트덱 수영",
+            "startTime": "14:00",
+            "endTime": "17:00",
+            "location": "그랜드 리조트덱",
+            "remarks": "#갤럭시 수영장",
+            "travelDate": "2026-06-27"
+          },
+          {
+            "content": "브로드웨이 호텔 체크인 후 택시 타고 하얏트 호텔 이동",
+            "startTime": "17:00",
+            "endTime": "17:30",
+            "location": "브로드웨이 호텔",
+            "remarks": "#택시 이동",
+            "travelDate": "2026-06-27"
+          },
+          {
+            "content": "베이징 키친 저녁식사",
+            "startTime": "17:30",
+            "endTime": "19:30",
+            "location": "그랜드 하얏트 베이징 키친",
+            "remarks": "#저녁 식사",
+            "travelDate": "2026-06-27"
+          },
+          {
+            "content": "하우스 오브 댄싱 워터 공연 관람",
+            "startTime": "19:30",
+            "endTime": "21:30",
+            "location": "시티 오브 드림즈(COD)",
+            "remarks": "#티켓가: 162,000원",
+            "travelDate": "2026-06-27"
+          },
+          {
+            "content": "윈팰리스 스카이캡 탑승 및 분수쇼 관람",
+            "startTime": "21:30",
+            "endTime": "22:30",
+            "location": "윈 팰리스",
+            "remarks": "#무료 (스카이캡 이용)",
+            "travelDate": "2026-06-27"
+          },
+          {
+            "content": "경전철 타고 야경 보며 숙소 복귀",
+            "startTime": "22:30",
+            "endTime": "23:30",
+            "location": "브로드웨이 호텔",
+            "remarks": "#마카오 LRT 이용",
+            "travelDate": "2026-06-27"
+          }
+        ]
+      },
+      {
+        "title": "6월 28일",
+        "itineraries": [
+          {
+            "content": "츠와 레스토랑 아침식사",
+            "startTime": "08:00",
+            "endTime": "09:00",
+            "location": "브로드웨이 푸드 스트리트 츠와",
+            "remarks": "#아침 식사 (차찬탱)",
+            "travelDate": "2026-06-28"
+          },
+          {
+            "content": "세나도 광장 택시타고 이동",
+            "startTime": "09:00",
+            "endTime": "09:30",
+            "location": "세나도 광장",
+            "remarks": "#택시 이동",
+            "travelDate": "2026-06-28"
+          },
+          {
+            "content": "세나도 광장 및 성 바울 성당 관광",
+            "startTime": "09:30",
+            "endTime": "11:30",
+            "location": "세나도 광장",
+            "remarks": "#세계문화유산 관광",
+            "travelDate": "2026-06-28"
+          },
+          {
+            "content": "세나도광장에서 스튜디오시티 이동",
+            "startTime": "11:30",
+            "endTime": "12:00",
+            "location": "스튜디오 시티",
+            "remarks": "#이동",
+            "travelDate": "2026-06-28"
+          },
+          {
+            "content": "스튜디오 시티 키쿠 점심 뷔페 이용",
+            "startTime": "12:00",
+            "endTime": "14:00",
+            "location": "스튜디오 시티 키쿠",
+            "remarks": "#1인 가격: 90,000원",
+            "travelDate": "2026-06-28"
+          },
+          {
+            "content": "돈돈돈키 쇼핑",
+            "startTime": "14:00",
+            "endTime": "15:00",
+            "location": "스튜디오 시티 돈돈돈키",
+            "remarks": "#쇼핑",
+            "travelDate": "2026-06-28"
+          },
+          {
+            "content": "브로드웨이 호텔 이동",
+            "startTime": "15:00",
+            "endTime": "15:30",
+            "location": "브로드웨이 호텔",
+            "remarks": "#이동",
+            "travelDate": "2026-06-28"
+          },
+          {
+            "content": "그랜드리조트덱 수영",
+            "startTime": "15:30",
+            "endTime": "18:00",
+            "location": "그랜드 리조트덱",
+            "remarks": "#갤럭시 수영장",
+            "travelDate": "2026-06-28"
+          },
+          {
+            "content": "요시모리 데판야끼 저녁 식사",
+            "startTime": "18:00",
+            "endTime": "20:00",
+            "location": "브로드웨이 푸드 스트리트 요시모리",
+            "remarks": "#저녁 식사 (철판요리)",
+            "travelDate": "2026-06-28"
+          },
+          {
+            "content": "다이아몬드쇼, 크리스탈로비쇼 보기",
+            "startTime": "20:00",
+            "endTime": "21:00",
+            "location": "갤럭시 마카오 로비",
+            "remarks": "#로비 쇼 관람",
+            "travelDate": "2026-06-28"
+          }
+        ]
+      },
+      {
+        "title": "6월 29일",
+        "itineraries": [
+          {
+            "content": "소다빙실 아침식사",
+            "startTime": "08:30",
+            "endTime": "09:30",
+            "location": "소다빙실 카페",
+            "remarks": "#아침 식사 (차찬탱)",
+            "travelDate": "2026-06-29"
+          },
+          {
+            "content": "타이파 빌리지 구경",
+            "startTime": "09:30",
+            "endTime": "10:30",
+            "location": "타이파 빌리지",
+            "remarks": "#주변 관광",
+            "travelDate": "2026-06-29"
+          },
+          {
+            "content": "숙소 복귀 후 체크아웃",
+            "startTime": "10:30",
+            "endTime": "11:00",
+            "location": "브로드웨이 호텔",
+            "remarks": "#체크아웃",
+            "travelDate": "2026-06-29"
+          },
+          {
+            "content": "짐 보관후 리조트덱 수영",
+            "startTime": "11:00",
+            "endTime": "14:00",
+            "location": "그랜드 리조트덱",
+            "remarks": "#갤럭시 수영장",
+            "travelDate": "2026-06-29"
+          },
+          {
+            "content": "갤럭시 푸트코트 점심식사",
+            "startTime": "14:00",
+            "endTime": "15:00",
+            "location": "갤럭시 마카오 푸드코트",
+            "remarks": "#점심 식사",
+            "travelDate": "2026-06-29"
+          },
+          {
+            "content": "짐 들고 파리지앵 이동후 체크인",
+            "startTime": "15:00",
+            "endTime": "15:30",
+            "location": "파리지앵 마카오",
+            "remarks": "#호텔 이동 및 체크인",
+            "travelDate": "2026-06-29"
+          },
+          {
+            "content": "팀랩 관람",
+            "startTime": "15:30",
+            "endTime": "17:30",
+            "location": "베네시안 코타이 엑스포",
+            "remarks": "#팀랩 슈퍼네이처 관람",
+            "travelDate": "2026-06-29"
+          },
+          {
+            "content": "베네시안 호텔 구경",
+            "startTime": "17:30",
+            "endTime": "18:30",
+            "location": "베네시안 마카오",
+            "remarks": "#호텔 구경",
+            "travelDate": "2026-06-29"
+          },
+          {
+            "content": "북방관 저녁식사",
+            "startTime": "18:30",
+            "endTime": "20:30",
+            "location": "베네시안 마카오 북방관",
+            "remarks": "#저녁 식사 (북방요리)",
+            "travelDate": "2026-06-29"
+          },
+          {
+            "content": "야경 구경 파리지앵 에펠탑,런더너 빅밴, 스튜디오시티 등",
+            "startTime": "20:30",
+            "endTime": "22:00",
+            "location": "코타이 스트립",
+            "remarks": "#코타이 야경 감상",
+            "travelDate": "2026-06-29"
+          }
+        ]
+      },
+      {
+        "title": "6월 30일",
+        "itineraries": [
+          {
+            "content": "조식 먹기",
+            "startTime": "07:00",
+            "endTime": "08:00",
+            "location": "파리지앵 마카오 르 뷔페",
+            "remarks": "#호텔 조식",
+            "travelDate": "2026-06-30"
+          },
+          {
+            "content": "수영 후 체크아웃",
+            "startTime": "08:00",
+            "endTime": "11:00",
+            "location": "파리지앵 마카오",
+            "remarks": "#모닝 수영 및 체크아웃",
+            "travelDate": "2026-06-30"
+          },
+          {
+            "content": "짐 보관후 팀호완 점심식사",
+            "startTime": "11:00",
+            "endTime": "12:00",
+            "location": "팀호완 마카오",
+            "remarks": "#딤섬 점심식사",
+            "travelDate": "2026-06-30"
+          },
+          {
+            "content": "공항 이동 후 출국 수속",
+            "startTime": "12:00",
+            "endTime": "14:10",
+            "location": "마카오 국제공항",
+            "remarks": "#출국 수속 및 탑승 대기",
+            "travelDate": "2026-06-30"
+          },
+          {
+            "content": "마카오 공항 출발 -> 한국 도착",
+            "startTime": "14:10",
+            "endTime": "19:00",
+            "location": "마카오 공항",
+            "remarks": "",
+            "travelDate": "2026-06-30"
+          }
+        ]
+      }
+    ]
+  }
+]
