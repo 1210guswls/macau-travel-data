@@ -1,0 +1,239 @@
+[
+  {
+    "planTitle": "2026 마카오 여행 (동선 최적화 v3 - 완벽 정복)",
+    "planText": "브로드웨이 1박 + 스튜디오시티 2박 연박 기준, 동선 낭비와 시간 낭비를 완벽히 제로로 만든 최종 계획표입니다.",
+    "startDate": "2026-06-27",
+    "endDate": "2026-06-30",
+    "coverImageUrl": "studiocity",
+    "days": [
+      {
+        "title": "6월 27일 (토)",
+        "itineraries": [
+          {
+            "content": "인천공항 출발 -> 마카오 도착 (대한항공)",
+            "startTime": "10:10",
+            "endTime": "13:00",
+            "location": "인천공항",
+            "remarks": "#항공권 왕복: 563,500원",
+            "travelDate": "2026-06-27"
+          },
+          {
+            "content": "입국 수속 및 브로드웨이 호텔 이동",
+            "startTime": "13:00",
+            "endTime": "14:00",
+            "location": "마카오 공항",
+            "remarks": "#호텔 이동",
+            "travelDate": "2026-06-27"
+          },
+          {
+            "content": "브로드웨이 호텔 짐 보관 후 그랜드 리조트덱 수영",
+            "startTime": "14:00",
+            "endTime": "17:00",
+            "location": "그랜드 리조트덱",
+            "remarks": "#갤럭시 수영장",
+            "travelDate": "2026-06-27"
+          },
+          {
+            "content": "브로드웨이 호텔 체크인 후 택시 타고 하얏트 호텔 이동",
+            "startTime": "17:00",
+            "endTime": "17:30",
+            "location": "브로드웨이 호텔",
+            "remarks": "#택시 이동",
+            "travelDate": "2026-06-27"
+          },
+          {
+            "content": "베이징 키친 저녁식사",
+            "startTime": "17:30",
+            "endTime": "19:30",
+            "location": "그랜드 하얏트 베이징 키친",
+            "remarks": "#저녁 식사",
+            "travelDate": "2026-06-27"
+          },
+          {
+            "content": "하우스 오브 댄싱 워터 공연 관람",
+            "startTime": "19:30",
+            "endTime": "21:30",
+            "location": "시티 오브 드림즈(COD)",
+            "remarks": "#티켓가: 162,000원",
+            "travelDate": "2026-06-27"
+          },
+          {
+            "content": "윈팰리스 스카이캡 탑승 및 분수쇼 관람",
+            "startTime": "21:30",
+            "endTime": "22:30",
+            "location": "윈 팰리스",
+            "remarks": "#무료 (스카이캡 이용)",
+            "travelDate": "2026-06-27"
+          },
+          {
+            "content": "경전철 타고 야경 보며 숙소 복귀",
+            "startTime": "22:30",
+            "endTime": "23:30",
+            "location": "브로드웨이 호텔",
+            "remarks": "#마카오 LRT 이용",
+            "travelDate": "2026-06-27"
+          }
+        ]
+      },
+      {
+        "title": "6월 28일 (일) - 스튜디오 시티 이동 데이",
+        "itineraries": [
+          {
+            "content": "소다빙실 아침식사",
+            "startTime": "08:30",
+            "endTime": "09:30",
+            "location": "타이파 빌리지 소다빙실",
+            "remarks": "#아침 식사 (차찬탱)",
+            "travelDate": "2026-06-28"
+          },
+          {
+            "content": "타이파 빌리지 구경",
+            "startTime": "09:30",
+            "endTime": "10:30",
+            "location": "타이파 빌리지",
+            "remarks": "#주변 관광",
+            "travelDate": "2026-06-28"
+          },
+          {
+            "content": "숙소 복귀 후 체크아웃 및 리조트덱 이동",
+            "startTime": "10:30",
+            "endTime": "11:00",
+            "location": "브로드웨이 호텔",
+            "remarks": "#체크아웃",
+            "travelDate": "2026-06-28"
+          },
+          {
+            "content": "그랜드 리조트덱 수영",
+            "startTime": "11:00",
+            "endTime": "14:00",
+            "location": "그랜드 리조트덱",
+            "remarks": "#갤럭시 수영장 물놀이",
+            "travelDate": "2026-06-28"
+          },
+          {
+            "content": "갤럭시 푸드코트 점심식사",
+            "startTime": "14:00",
+            "endTime": "15:00",
+            "location": "갤럭시 마카오 푸드코트",
+            "remarks": "#점심 식사",
+            "travelDate": "2026-06-28"
+          },
+          {
+            "content": "스튜디오 시티 이동 후 체크인",
+            "startTime": "15:00",
+            "endTime": "16:00",
+            "location": "스튜디오 시티 마카오",
+            "remarks": "#호텔 체크인",
+            "travelDate": "2026-06-28"
+          },
+          {
+            "content": "팀랩 관람",
+            "startTime": "16:00",
+            "endTime": "18:00",
+            "location": "베네시안 코타이 엑스포",
+            "remarks": "#팀랩 슈퍼네이처 관람",
+            "travelDate": "2026-06-28"
+          },
+          {
+            "content": "베네시안 호텔 구경",
+            "startTime": "18:00",
+            "endTime": "19:00",
+            "location": "베네시안 마카오",
+            "remarks": "#실내 운하 구경",
+            "travelDate": "2026-06-28"
+          },
+          {
+            "content": "북방관 저녁 식사",
+            "startTime": "19:00",
+            "endTime": "21:00",
+            "location": "베네시안 마카오 북방관",
+            "remarks": "#저녁 식사",
+            "travelDate": "2026-06-28"
+          },
+          {
+            "content": "런더너 이동 및 근위병 교대식 관람, 야경 구경",
+            "startTime": "21:00",
+            "endTime": "22:30",
+            "location": "런더너 마카오 크리스탈 팰리스",
+            "remarks": "#21:30 근위병 교대식 직관",
+            "travelDate": "2026-06-28"
+          }
+        ]
+      },
+      {
+        "title": "6월 29일 (월) - 워터파크 올인 데이",
+        "itineraries": [
+          {
+            "content": "팀호완 아침 식사",
+            "startTime": "08:30",
+            "endTime": "10:00",
+            "location": "스튜디오 시티 딤섬 매장",
+            "remarks": "#아침 식사 (딤섬)",
+            "travelDate": "2026-06-29"
+          },
+          {
+            "content": "니켈로디언 타운 실내놀이터 구경 및 체험",
+            "startTime": "10:30",
+            "endTime": "12:00",
+            "location": "스튜디오 시티 2층 니켈로디언 타운",
+            "remarks": "#실내 테마파크 구경",
+            "travelDate": "2026-06-29"
+          },
+          {
+            "content": "스튜디오 시티 워터파크 물놀이",
+            "startTime": "12:00",
+            "endTime": "17:30",
+            "location": "스튜디오 시티 워터파크",
+            "remarks": "#실내외 물놀이 완전 정복",
+            "travelDate": "2026-06-29"
+          },
+          {
+            "content": "골든 리 관람차 탑승 및 야경 구경",
+            "startTime": "18:15",
+            "endTime": "19:00",
+            "location": "스튜디오 시티 3층 골든릴",
+            "remarks": "#마감 전 8자 관람차 탑승",
+            "travelDate": "2026-06-29"
+          },
+          {
+            "content": "하이디라오 저녁 식사",
+            "startTime": "19:15",
+            "endTime": "21:15",
+            "location": "런더너 마카오 하이디라오",
+            "remarks": "#저녁 식사 (훠궈)",
+            "travelDate": "2026-06-29"
+          }
+        ]
+      },
+      {
+        "title": "6월 30일 (화) - 마지막 날",
+        "itineraries": [
+          {
+            "content": "호텔 조식 식사",
+            "startTime": "07:00",
+            "endTime": "08:00",
+            "location": "스튜디오 시티 레스토랑",
+            "remarks": "#7시 오픈 정각 식사",
+            "travelDate": "2026-06-30"
+          },
+          {
+            "content": "세나도 광장 및 세계문화유산 관광",
+            "startTime": "08:30",
+            "endTime": "10:00",
+            "location": "마카오 본섬 세나도 광장",
+            "remarks": "#한적한 오전 세계문화유산 투어",
+            "travelDate": "2026-06-30"
+          },
+          {
+            "content": "숙소 복귀 및 최종 체크아웃 후 공항 이동",
+            "startTime": "10:30",
+            "endTime": "11:15",
+            "location": "스튜디오 시티 ➡️ 마카오 공항",
+            "remarks": "#11시 공항 셔틀 또는 택시 탑승",
+            "travelDate": "2026-06-30"
+          }
+        ]
+      }
+    ]
+  }
+]
